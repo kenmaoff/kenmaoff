@@ -9,19 +9,7 @@
 
 - 🤝 I’m looking for help with **my own projects and Upfollow**
 
-- 👨‍💻 All of my projects are available at [-](-)
 
-- 📝 I regularly write articles on [-](-)
-
-- 💬 Ask me about **js, css, html**
-
-- 📫 How to reach me **-**
-
-- 📄 Know about my experiences [-](-)
-
-- ⚡ Fun fact **I like the development**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
